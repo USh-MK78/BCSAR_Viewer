@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCSAR_Viewer", "BCSAR_Viewer\BCSAR_Viewer.csproj", "{D42A3ADC-2343-4646-B8FA-8733CBA0A9FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCSARLibrary", "BCSARLibrary\BCSARLibrary.csproj", "{F2A12092-2F1F-431D-A066-D675D5925E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42A3ADC-2343-4646-B8FA-8733CBA0A9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42A3ADC-2343-4646-B8FA-8733CBA0A9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42A3ADC-2343-4646-B8FA-8733CBA0A9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42A3ADC-2343-4646-B8FA-8733CBA0A9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A12092-2F1F-431D-A066-D675D5925E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A12092-2F1F-431D-A066-D675D5925E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A12092-2F1F-431D-A066-D675D5925E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A12092-2F1F-431D-A066-D675D5925E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129B7203-24BD-4B4A-813F-94CD4D240968}
+	EndGlobalSection
+EndGlobal
